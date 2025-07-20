@@ -79,4 +79,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGreek1603&layout=compact)
 
-![Snake animation](https://github.com/MrGreek1603/MrGreek1603/blob/output/github-contribution-grid-snake.svg)
+
